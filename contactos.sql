@@ -5,7 +5,7 @@ CREATE TABLE contactos (
 );
 
 INSERT INTO contactos (email, nombre, telefono)
-VALUES ('juan@example.com', 'Juan Pérez', '555-123-4567');
+VALUES ('jesus@gmail.com', 'Jesus', '999-678-7347');
 
 INSERT INTO contactos (email, nombre, telefono)
 VALUES ('maria@example.com', 'María García', '555-678-9012');
