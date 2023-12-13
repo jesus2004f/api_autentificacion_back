@@ -33,6 +33,7 @@ origins = [
     "http://localhost:8080",
     "http://localhost:8000",
 "https://mysql-front-b9df0f2dcfae.herokuapp.com"
+"https://autentification-front-739523386c7c.herokuapp.com/"
 ]
 
 
